@@ -23,7 +23,7 @@ return [
 
     'allowed_origins_patterns' => [],
 
-    'allowed_headers' => ['*'],
+    'allowed_headers' => ['https://snapblog.dpdns.org'],
 
     'exposed_headers' => [],
 
